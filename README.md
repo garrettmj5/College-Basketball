@@ -1,2 +1,2 @@
 # College-Basketball
-I collected data from CBS Sports to analyze teams' covering and winning percentages for home and away games, providing insights into their performance in the March Madness tournament.
+I collected data from CBS Sports to analyze teams' covering and winning percentages in home and away games, providing insights into their performance in the March Madness tournament. Using this data, I was able to create visuals in tableau that could show which teams performed better away or at home. This was an attempt to see if there are any insights on what kinds of teams perform better in the toournament
